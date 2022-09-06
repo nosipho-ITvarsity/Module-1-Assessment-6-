@@ -1,0 +1,83 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        
+        <div id="menu">
+             <a href="index.html">Home</a>
+             <a href="about%20us.html">About us</a>
+             <a href="contact%20us.html">Contact</a>
+        
+        <h2>ford</h2>
+        <div class="gallery">
+           
+            <img src="land%20rover%202.jpg"/> 
+            <img src="land%20rover%203.jpg"/>
+            <img src="land%20rover%204.jpg"/>
+            <img src="land%20rover%205.jpg"/>
+            <img src="LAND%20ROVER%20CAR.jpg"/>
+        
+          <h3>History Of the FORD</h3>
+        
+        <p>Henry Ford built first experimental car in a workshop behind his home in Detroit in 1896. After formation of the Ford Motor Company  , the first Ford car, the original Model A , was assembled at the Mack Avenue plant in July 1903 . Five years later , in 1908 , the highly successful Model T was introduced</p>
+
+        </div>
+        <h4>PRICES</h4>
+        
+        <p>R30 200</p>
+        <p>R25 300</p>
+        <p>R10 600</p>
+        <p>R45 500</p>
+        <p>R25 900</p>
+        
+        <h4>Stock Available</h4>
+        
+        <P>There are 1089 different types land rover cars  available.</P>
+        
+        <h4>Description</h4>
+        
+        <p>Ford Motor Co(ford) is an automotive company , which designs , manufactures ,markets and services a full line of cars , trucks , sorts utility vehicles. The company provides vehicles-related financing and leasing services . Ford markets its products under Ford and Lincoln Brand names .</p>
+         
+        <h4>Product information table</h4>
+             
+        <table border = "1" width = "80%" height = "80%">
+    <tr>
+        <th> weight</th>
+        <th>dimensions</th>
+    </tr>
+    <tr>
+        <td>50 000 pounds</td>
+        <td>30x10.5x15.3cm</td> 
+         
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</DOCTYPE>
